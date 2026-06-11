@@ -149,7 +149,7 @@
           .col-md-6.p-4.col-lg-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 5.
-              span  Desahogo por línea de profundidad de sisa
+              span Desahogo por línea de profundidad de sisa
             figure
               img(src='@/assets/curso/temas/tema1/img09.svg', alt='La imagen muestra dos figuras humanas estilizadas para indicar medidas en el diseño de patrones de costura, una de frente y otra de espalda. Las figuras están marcadas con líneas que señalan puntos de medida específicos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. En la figura de frente, una sección sombreada en rosa cruza el torso horizontalmente, con la etiqueta “Deshago por largo”. En la parte inferior, hay un diagrama circular dividido en dos mitades etiquetadas como “Delantero” y “Posterior”, con notas que explican “Deshago por Largo”, refiriéndose al espacio adicional en longitud que se puede agregar, y una nota que indica que este es un aumento, holgura o incremento que se toma aparte del deshago por contorno. ')
         .row.justify-content-center
@@ -219,7 +219,7 @@
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/icon-title.svg', alt='')
-        h3.mb-0.ms-2 4.	Señalización: 
+        h3.mb-0.ms-2 4.	Señalización
     
     p.mb-5 Identificar cada una de las piezas con las especificaciones del diseño o de la prenda. Toda interpretación, trazo, plano o prenda se compone de una serie de complementos como bolsillos, cuellos, mangas y cortes.
 
@@ -288,17 +288,17 @@
           .row.justify-content-center.align-items-center
             .col-md-9.mb-4.mb-md-0
               p.mb-0 Entre más corta sea la cabeza de manga, corresponde a prendas #[b deportivas].
-            .col-md-3.col-md-6.col-5
+            .col-lg-3.col-md-6.col-5
               img(src='@/assets/curso/temas/tema1/ico01.svg', alt='')
           .row.justify-content-center.align-items-center
-            .col-md-3.mb-4.mb-md-0.col-md-6.col-5
+            .col-lg-3.mb-4.col-md-6.col-5.mb-md-0
               img(src='@/assets/curso/temas/tema1/ico02.svg', alt='')
             .col-md-9
               p.mb-0 Entre más larga sea la cabeza de manga, corresponde a prendas #[b formales].
           .row.justify-content-center.align-items-center
             .col-md-9.mb-4.mb-md-0
               p.mb-0 Un punto intermedio entre las dos anteriores, corresponde a prendas #[b casuales.]
-            .col-md-3.mb-4.mb-md-0.col-md-6.col-5
+            .col-lg-3.mb-4.col-md-6.col-5.mb-md-0
               img(src='@/assets/curso/temas/tema1/ico03.svg', alt='')
       .col-lg-4
         .titulo-sexto.color-acento-contenido
@@ -336,7 +336,7 @@
       .col-md-9.col-lg-6.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 13.
-          span  cuadros de tallas
+          span Cuadros de tallas
         img(src='@/assets/curso/temas/tema1/img18.svg', alt='En el lado izquierdo, hay un cuadro color crema con texto que parece ser parte de una instrucción o definición sobre tipos de mangas en costura. Enumera tres tipos de “Cabeza de manga” con fórmulas matemáticas para su construcción: “Cabeza de manga deportiva = sisa delantera + sisa posterior / 5” “Cabeza de manga casual = sisa delantera + sisa posterior / 4” “Cabeza de manga sastre o formal = sisa delantera + sisa posterior / 3” En el lado derecho, hay un gráfico con una regla vertical que indica el “Largo de manga”. Hay tres líneas horizontales de colores que señalan diferentes longitudes para tipos de manga: “Deportivo”, “Casual” y “Formal o Sastre”. A la izquierda de la regla, las letras “D” y “P” podrían referirse a las medidas de largo para los tipos de manga respectivos.')  
       .col-md-9.col-lg-4.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
@@ -388,7 +388,7 @@
           .col-lg-3.col-md-6.mb-3.mb-lg-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
-              span  Tipo de manga
+              span Tipo de manga
             figure
               img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
           .col-md-5.col-lg-6
@@ -437,14 +437,14 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 17.
-          span  Cuello por medida de contorno.
+          span Cuello por medida de contorno
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img24.svg', alt='La imagen muestra dos diagramas relacionados con la confección de prendas de vestir. En el lado izquierdo, hay dos figuras de maniquíes, uno de frente y otro de espalda, con líneas que marcan divisiones anatómicas y posibles líneas de costura para la ropa. En el lado derecho, hay un patrón de tela para la parte superior de un vestido o camiseta, con indicaciones específicas sobre cómo modificar la curvatura del escote. La frase “Curva disímil a la del escote” sugiere que se está dando una instrucción para hacer una curva similar a la del escote en otra parte del patrón.')
         p.mb-5 Dentro del trazo y la misma estructura del plano de los cuellos por medida de contorno se identifican las capotas.
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 18.
-          span  Capotas
+          span Capotas
         figure
           img(src='@/assets/curso/temas/tema1/img25.svg', alt='en la figura se presentan dos imágenes: en la primera hay dos maniquíes vistiendo una capota, uno de frente y otro de espaldas; en la otra imagen se presenta el patrón de chaleco con el corte para la capota.')
     
@@ -460,7 +460,7 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido
           h5 Figura 19.
-          span  Ejemplos cuello por unión de hombro.
+          span Ejemplos cuello por unión de hombro
         img(src='@/assets/curso/temas/tema1/img26.svg', alt='En la imagen se presentan, con vistas delantera y posterior, dos maniquíes vistiendo dos tipos de cuellos que caen sobre los hombros.')
     
    
@@ -475,7 +475,7 @@
       .col-lg-4.col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 20.
-          span  cuello por extensión.
+          span Cuello por extensión
         img(src='@/assets/curso/temas/tema1/img27.svg', alt='la imagen presenta un maniquí, con vista delantera y posterior, vistiendo un pequeño chaleco con el cuello resaltado.')
    
     p Al dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de cuellos se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco”, es decir, que siempre en este punto los cuellos hacen parte de los complementos en los pasos del patronaje.
@@ -500,7 +500,7 @@
       .col-lg-4.col-md-9.p-2
         .titulo-sexto.color-acento-contenido.mb-1
           h5 Figura 21.
-          span  Despiece
+          span Despiece
         figure
           img(src='@/assets/curso/temas/tema1/img28.svg', alt='En la figura se presentan varias piezas separadas (moldes) de un vestido.')
     
@@ -508,7 +508,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-2
       h5 Figura 22.
-      span  Costuras
+      span Costuras
     
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-sm-12.col-lg-12
@@ -528,7 +528,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 23.
-          span  márgenes de costuras
+          span Márgenes de costuras
       .col-lg-12
         figure
           img(src='@/assets/curso/temas/tema1/figura23.png', alt='La imagen es un collage de tres secciones relacionadas con la confección de ropa. En la parte superior, hay un patrón de corte azul para una camisa con múltiples piezas etiquetadas y medidas especificadas. En la sección del medio, se muestra un esquema de instrucciones de costura amarillo con dibujos de prendas, símbolos de costura y números, que parecen ser pasos o partes de un conjunto de instrucciones para confeccionar una prenda. La tercera sección en la parte inferior muestra una fotografía de un tejido o costura, posiblemente ilustrando la textura o la calidad del acabado de un detalle de confección.')    
@@ -542,7 +542,7 @@
       .col-lg-4.col-md-8
         .titulo-sexto.color-acento-contenido.mb-1
           h5 Figura 24.
-          span  márgenes de costura
+          span Márgenes de costura
         img(src='@/assets/curso/temas/tema1/img34.svg', alt='La imagen muestra un patrón de corte para confección de ropa, específicamente una pieza de un vestido. Es un dibujo en color amarillo con una forma curva que podría corresponder a una parte del corpiño o posiblemente a un panel lateral. El texto indica que es para un “Vestido Talla 6”, y se refiere a un “Falso Delantero”, seguido por las instrucciones “x1v En tela Base” y “x1v Entretela”. También aparece “10/10”, que puede referirse a una medida específica o a una instrucción de costura. Estas anotaciones sugieren detalles sobre la cantidad de piezas a cortar y los materiales a utilizar. ')
     
     p.mb-4 En el siguiente video se presenta, de manera detallada, la manera de realizar el despiece de planos:
@@ -567,7 +567,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 25.
-          span prendas infantiles
+          span Prendas infantiles
       .col-12  
         figure
           img(src="@/assets/curso/temas/tema1/figura25.png", alt="la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
@@ -603,7 +603,7 @@
       .col-lg-4.col-9.col-md-6.px-lg-4.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 28.
-          span  Pretina anatómica
+          span Pretina anatómica
         figure
           img(src='@/assets/curso/temas/tema1/003.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una falda con pretina anatómica de color gris;  En la segunda imagen se presenta un maniquí sobre el cual se resalta la pretina en color rosa, además se lee: “las pretinas anatómicas, salen con la forma del cuerpo, es decir, se ajustan a la curvatura de la cintura”')
     
@@ -641,7 +641,7 @@
       .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-1
           h5 Figura 30.
-          span partes del bolsillo.
+          span Partes del bolsillo
         img(src='@/assets/curso/temas/tema1/movil.svg', alt='En la figura, se señalan y detallan sobre un maniquí, las siguientes partes del bolsillo: boca de bolsillo, falso de bolsillo, fondo de bolsillo, vista de bolsillo.')
     
 
@@ -656,13 +656,13 @@
       .col-lg-3.col-md-8.p-2.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 31.
-          span.text-small Piezas del sistema de cierre
+          span Piezas del sistema de cierre
         figure
           img(src='@/assets/curso/temas/tema1/figura31.png', alt='')
       .col-lg-9.col-md-12.p-2
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 32.
-          span.text-small Aletilla y aletillón
+          span Aletilla y aletillón
         figure
           img(src='@/assets/curso/temas/tema1/figura32.png', alt='')
 

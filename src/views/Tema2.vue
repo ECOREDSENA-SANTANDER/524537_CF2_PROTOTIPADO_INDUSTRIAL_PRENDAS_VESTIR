@@ -223,7 +223,7 @@
   
     Separador  
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3 Trazo de pantalón clasico masculino
+      h2 2.3 Trazo de pantalón clásico masculino
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-8
@@ -282,7 +282,7 @@
         img(src='@/assets/curso/temas/icon-title.svg', alt='')
         h3.mb-0.ms-2 Silueta #[em Slim Fit]
 
-    p.mb-4 Al tener en cuenta que el desarrollo del trazo de pantalón tipo jean silueta #[em slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño del pantalón desde cero. En este caso se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome. En el siguiente video se presenta la explicación:
+    p.mb-4 Al tener en cuenta que el desarrollo del trazo de pantalón tipo jean silueta #[em slim fit] (ajustado), sale desde el básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño del pantalón desde cero. En este caso se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome. En el siguiente video se presenta la explicación: 
     
     figure(data-aos="zoom-in-left")
       .video

@@ -267,8 +267,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED) ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -290,23 +291,23 @@ export default {
           nombre: 'Natalia Andrea Bueno Pizarro ',
           cargo: 'Diseñadora y evaluadora instruccional ',
           centro:
-            'Distrito Capital - Centro para La Industria de la Comunicación Gráfica ',
+            'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital ',
         },
         {
           nombre: 'Julia Isabel Roberto ',
           cargo: 'Diseñadora y evaluadora instruccional ',
           centro:
-            'Distrito Capital - Centro para La Industria de la Comunicación Gráfica ',
+            'Centro para La Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Paez ',
           cargo: 'Evaluador instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Carolina Jiménez Suescún  ',
           cargo: 'Evaluador instruccional ',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -326,7 +327,7 @@ export default {
         {
           nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -336,17 +337,17 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

@@ -186,7 +186,7 @@
           .col-11.col-md-9.col-lg-6.mb-3.mb-md-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 41. 
-              span  Ancho de escote
+              span Ancho de escote
             figure
               img(src='@/assets/curso/temas/tema3/img12.svg', alt='La imagen muestra dos figuras de maniquíes, una de frente y otra de espalda, con marcas que indican medidas específicas para la confección de ropa. En la figura de frente, se destaca el “Ancho de escote” con una línea punteada rosa que señala la medida horizontal del escote. En la figura de espalda, se señala el “Deshago por ancho”, probablemente refiriéndose a la cantidad de tela extra o margen que se debe considerar al cortar la prenda para ajustar el ancho del escote. Estas medidas son claves en el proceso de patronaje y confección de prendas a medida para asegurar un buen ajuste. Las líneas anaranjadas podrían representar otras costuras o ejes de simetría importantes en el diseño del patrón.')          
         .row.justify-content-center
@@ -211,7 +211,7 @@
     .mb-4(data-aos="fade-left")
       .titulo-sexto.color-acento-contenido
         h5 Figura 44. 
-        span tipos de escotes
+        span Tipos de escotes
       figure
         img(src='@/assets/curso/temas/tema3/banner.png', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
           
@@ -284,7 +284,7 @@
             .col
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Revisar el siguiente material, Manual de patronaje básico, paginas 26, 44, 67, 70 y 86                                
+                  p.mb-0 Revisar el siguiente material, Manual de patronaje básico, páginas 26, 44, 67, 70 y 86                                
                 .col-sm-auto
                   a.boton.color-primario(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=BF72CD06AE46253721040B0A364677AF?sequence=1')" target="_blank")
                     span Ir al sitio
