@@ -20,10 +20,10 @@
               ul.lista-ul--color.lista-ul--separador.mb-0
                 li 
                   i
-                  span.mb-0 #[b 1. Básicos]
+                  span.mb-0 #[b A. Básicos]
                 li 
                   i
-                  span.mb-0 #[b 2. Interpretación]
+                  span.mb-0 #[b B. Interpretación]
                 li.pb-0
                   ul
                     li
@@ -37,13 +37,13 @@
                       span.mb-0 Sistema de cierre
                 li 
                   i
-                  span.mb-0 #[b 3. Complementos]
+                  span.mb-0 #[b C. Complementos]
                 li 
                   i
-                  span.mb-0 #[b 4. Señalización]
+                  span.mb-0 #[b D. Señalización]
                 li.mb-0 
                   i
-                  span.mb-0 #[b 5.  Despiece]            
+                  span.mb-0 #[b E.  Despiece]            
             .col-lg-5.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema3/img01.png', alt='')  
 
@@ -146,7 +146,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 40. 
           span Blusa femenina
-        img(src='@/assets/curso/temas/tema3/img08.svg', alt='')
+        img(src='@/assets/curso/temas/tema3/img08.svg', alt='Patrón técnico de blusa con medidas, pinzas y ubicación de bolsillo.')
 
     p.mb-4 En el video a continuación se presenta dicho proceso: 
           
@@ -188,7 +188,7 @@
               h5 Figura 41. 
               span Ancho de escote
             figure
-              img(src='@/assets/curso/temas/tema3/img12.svg', alt='La imagen muestra dos figuras de maniquíes, una de frente y otra de espalda, con marcas que indican medidas específicas para la confección de ropa. En la figura de frente, se destaca el “Ancho de escote” con una línea punteada rosa que señala la medida horizontal del escote. En la figura de espalda, se señala el “Deshago por ancho”, probablemente refiriéndose a la cantidad de tela extra o margen que se debe considerar al cortar la prenda para ajustar el ancho del escote. Estas medidas son claves en el proceso de patronaje y confección de prendas a medida para asegurar un buen ajuste. Las líneas anaranjadas podrían representar otras costuras o ejes de simetría importantes en el diseño del patrón.')          
+              img(src='@/assets/curso/temas/tema3/img12.svg', alt='Diagrama de desahogo por ancho aplicado al escote delantero y posterior.')          
         .row.justify-content-center
           .col-11.col-lg-10
             p Los largos son aquellos que se dan por centros, bien sea centro frente o centro atrás.
@@ -197,7 +197,7 @@
               h5 Figura 42. 
               span Largo del escote
             figure
-              img(src='@/assets/curso/temas/tema3/img13.svg', alt='La imagen presenta dos figuras de maniquíes grises, una de frente y otra de espalda, con marcas en color rosa. Las líneas rosas indican medidas específicas para el diseño de prendas. En el maniquí de frente, hay una línea vertical que marca el “Largo de escote”, refiriéndose a la distancia desde el punto más alto del hombro hasta el punto más bajo del escote en la parte delantera de la prenda. En el maniquí de espalda, se muestra una línea vertical que marca el “Deshago por largo”, que puede referirse al margen adicional de tela necesaria para ajustes de longitud o para la caída de la prenda en la parte posterior. Estas medidas son fundamentales en la creación de patrones para asegurar un ajuste adecuado y proporcionado de las prendas. Las líneas punteadas amarillas marcan posiblemente las líneas de corte o las costuras laterales del cuerpo del maniquí. ')             
+              img(src='@/assets/curso/temas/tema3/img13.svg', alt='Diagrama de desahogo por largo aplicado al escote delantero y posterior.')             
         .row.justify-content-center
           .col-11.col-lg-10
             p Los escotes reciben el nombre de su forma, es decir, en el momento en que se une el punto de ancho y el punto del largo en la parte delantera o posterior, se bautiza o asigna el nombre del escote. Algunos nombres son:
@@ -206,14 +206,14 @@
               h5 Figura 43. 
               span Forma del escote
             figure
-              img(src='@/assets/curso/temas/tema3/img14.svg', alt='La imagen muestra dos figuras de maniquíes grises, una vista de frente y otra de espalda, con líneas y anotaciones que indican medidas para patronaje en diseño de moda. En el maniquí de frente, una línea rosa punteada indica la “Forma de escote”, delineando su contorno. Una línea naranja horizontal y una vertical se cruzan en el pecho, marcando la “Unión de ancho y largo”. En el maniquí de espalda, estas dos líneas naranjas también aparecen, sugiriendo el punto donde el ancho y el largo se unen en la parte posterior de la prenda. ')            
+              img(src='@/assets/curso/temas/tema3/img14.svg', alt='Diagrama de forma de escote con unión de ancho y largo en delantero y espalda.')            
     
     .mb-4(data-aos="fade-left")
       .titulo-sexto.color-acento-contenido
         h5 Figura 44. 
         span Tipos de escotes
       figure
-        img(src='@/assets/curso/temas/tema3/banner.png', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
+        img(src='@/assets/curso/temas/tema3/banner.png', alt='Ejemplos de escotes cuadrados, bandeja, redondo, en V y en U en diferentes prendas.')
           
     p Los nombres de la forma varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo.
     p Cabe resaltar la importancia del manejo de la profundidad del escote, a su vez coordine con el diseño requerido y no afecte la funcionalidad de la prenda. En la confección de los escotes se debe controlar la medida de contorno, en la operación de la máquina por el arrastre o la manipulación generada por el operario. En mención de lo anterior, se debe plantear la mejor opción de pieza para cubrir el orillo del material textil en el escote, como son los falsos y el sesgo, además definir el ancho para tener en cuenta en el desarrollo de la operación de confección. Para el uso de falsos se debe analizar y plantear las entretelas acordes con el material textil a confeccionar.
@@ -258,7 +258,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 45. 
           span Chaqueta cuello sastre
-        img(src='@/assets/curso/temas/tema3/1.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
+        img(src='@/assets/curso/temas/tema3/1.svg', alt='Patrón técnico de chaleco con línea de quiebre, pinzas y medidas de transformación.')
              
     p En el siguiente video se presenta el proceso para el trazo de este tipo de chaqueta:
    
@@ -286,7 +286,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Revisar el siguiente material, Manual de patronaje básico, páginas 26, 44, 67, 70 y 86                                
                 .col-sm-auto
-                  a.boton.color-primario(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=BF72CD06AE46253721040B0A364677AF?sequence=1')" target="_blank")
+                  a.boton.color-primario(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
     
@@ -314,7 +314,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 46. 
           span Tipos de mangas
-        img(src='@/assets/curso/temas/tema3/img27.png', alt='La imagen muestra seis representaciones de blusas, combinando ilustraciones de diseño y fotografías de productos reales. Las tres imágenes superiores son dibujos técnicos que detallan diferentes estilos de mangas en blusas con botones: una con un diseño largo, manga larga y hombros destapados, otra con un diseño clásico, mangas anchas y recogidas en la muñeca y otra con mangas anchas con vuelo. Las tres imágenes inferiores son fotografías de blusas: una de mezclilla con mangas abullonadas, otra a rayas con un diseño moderno, con las mangas ajustadas en la muñeca y cinturón con boleros, y una última en color beige con mangas anchas y con vuelo fluido. Este conjunto muestra una variedad de estilos y detalles en las blusas, ilustrando tanto los aspectos técnicos del diseño como su aplicación en prendas confeccionadas.')
+        img(src='@/assets/curso/temas/tema3/img27.png', alt='Ejemplos de blusas y camisas con mangas amplias y variaciones de volumen y diseño.')
     
     p.mb-4 El siguiente video describe las interpretaciones de manga, teniendo en cuenta lo sugerido en el manual de patronaje básico:
     
@@ -342,7 +342,7 @@
           h5 Figura 47. 
           span Diseños de falda
         figure
-          img(src='@/assets/curso/temas/tema3/img28.png', alt='La imagen muestra tres tipos de prendas femeninas, específicamente dos faldas y un vestido, cada una con un diseño distinto: 1. Falda de botones color canela: La primera imagen muestra una falda corta de color canela con botones delanteros, combinada con medias negras, presentando un estilo juvenil y casual. 2. Falda de mezclilla acampanada: La segunda imagen es de una falda de mezclilla con un corte acampanado y un dobladillo deshilachado, un diseño informal y versátil. 3. Vestido largo con estampado floral: La tercera imagen presenta un vestido largo azul con un estampado floral grande en tonos de blanco y amarillo, destacando por su corte elegante y estilizado con escote en V. Estas prendas ilustran variados estilos y usos, desde opciones casuales y cotidianas hasta opciones más formales y elegantes.')
+          img(src='@/assets/curso/temas/tema3/img28.png', alt='Ejemplos de faldas con diferentes cortes y amplitud en la silueta.')
     
     p.mb-4 En el siguiente video, se realiza una explicación detallada acerca del trazo de falda:
      
@@ -367,7 +367,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 48. 
           span Faldas rotonda
-        img(src='@/assets/curso/temas/tema3/img57.png', alt='La figura presenta  cuatro fotografías de faldas en color azul puestas sobre maniquíes, en la figura resaltan las diferentes amplitudes que tienen las faldas.')
+        img(src='@/assets/curso/temas/tema3/img57.png', alt='Ejemplos de faldas acampanadas con diferentes niveles de amplitud y caída.')
     
     p.mb-4 En el siguiente video se explica de manera detallada, el proceso para realizar en trazo de faldas tipo rotonda:
     
@@ -391,7 +391,7 @@
           h5 Figura 49. 
           span Vestido de noche 
         figure
-          img(src='@/assets/curso/temas/tema3/figura54.png', alt='En la figura se presentan dos fotografías de mujeres luciendo vestidos de gala de color blanco.')
+          img(src='@/assets/curso/temas/tema3/figura54.png', alt='Ejemplos de vestidos de gala con escote palabra de honor y falda amplia.')
     
     p.mb-4 En el siguiente video, se presenta el proceso para realizar el trazo del vestido de noche:
     
@@ -420,7 +420,7 @@
           h5 Figura 50. 
           span Pantalón de dama
         figure
-          img(src='@/assets/curso/temas/tema3/img55.png', alt='La fotografía presenta medio cuerpo, la parte inferior, del cuerpo de una mujer, donde se destaca un pantalón de color gris oscuro mas o menor ceñido al cuerpo y con detalles de prenses y pretina rergativo.')
+          img(src='@/assets/curso/temas/tema3/img55.png', alt='Pantalón femenino de corte recto y ajustado, con pliegues delanteros y cintura con detalles en contraste negro.')
       
       p.mb-4 En el video presentado a continuación, se detalla el proceso para la interpretación: 
       

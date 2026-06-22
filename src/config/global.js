@@ -196,15 +196,10 @@ export default {
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
       },
-      /*{
+      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },*/
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -238,23 +233,95 @@ export default {
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
     },
   ],
-  /*glosario: [
+  glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Patronaje básico',
+      significado:
+        'técnica de elaboración de moldes base para la confección de prendas de vestir. ',
     },
-  ],*/
+    {
+      termino: 'Patrón a escala',
+      significado:
+        'representación reducida de un molde utilizada para practicar trazos y proporciones.',
+    },
+    {
+      termino: 'Básico superior',
+      significado:
+        'molde base del torso empleado para desarrollar prendas superiores como blusas y camisas.',
+    },
+    {
+      termino: 'Manga',
+      significado:
+        'pieza de tela que cubre total o parcialmente el brazo en una prenda. ',
+    },
+    {
+      termino: 'Cabeza de manga',
+      significado:
+        'parte superior de la manga que se une a la sisa del cuerpo de la prenda. ',
+    },
+    {
+      termino: 'Cuello',
+      significado: 'pieza que rodea o adorna el escote de una prenda. ',
+    },
+    {
+      termino: 'Despiece de planos',
+      significado:
+        'proceso de separación de las piezas de un patrón para su corte y confección. ',
+    },
+    {
+      termino: 'Prenda superior',
+      significado:
+        'vestuario que cubre la parte alta del cuerpo, como camisas, blusas o chaquetas. ',
+    },
+    {
+      termino: 'Falda',
+      significado:
+        'prenda inferior que cubre desde la cintura hacia abajo sin dividir las piernas. ',
+    },
+    {
+      termino: 'Pantalón clásico',
+      significado:
+        'prenda inferior de corte recto y estructura formal utilizada en vestuario masculino o femenino.',
+    },
+    {
+      termino: 'Jean <em>slim fit</em>',
+      significado:
+        'pantalón de ajuste estrecho que se adapta a la forma de las piernas. ',
+    },
+    {
+      termino: 'Overol',
+      significado:
+        'prenda de una sola pieza que integra parte superior e inferior del vestuario. ',
+    },
+    {
+      termino: 'Pinza correctiva',
+      significado:
+        'ajuste realizado en el patrón para adaptar la prenda a la forma del cuerpo. ',
+    },
+    {
+      termino: 'Escote',
+      significado:
+        'abertura en la parte superior de una prenda alrededor del cuello.',
+    },
+    {
+      termino: 'Base sastre',
+      significado:
+        'patrón estructurado utilizado para confeccionar chaquetas y prendas de sastrería. ',
+    },
+    {
+      termino: 'Interpretación de prendas',
+      significado:
+        'proceso de transformar un diseño en moldes listos para confección. ',
+    },
+  ],
   referencias: [
     {
       referencia:
         'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje',
-      link: 'https://repositorio.sena.edu.co/handle/11404/1432?show=full',
     },
     {
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496 ',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. ',
     },
     {
       referencia:

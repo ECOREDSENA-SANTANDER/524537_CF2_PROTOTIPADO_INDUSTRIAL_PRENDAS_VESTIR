@@ -39,10 +39,10 @@
               ul.lista-ul--color.lista-ul--separador.mb-0
                 li 
                   i
-                  span.mb-0 #[b 1. Básicos]
+                  span.mb-0 #[b A. Básicos]
                 li 
                   i
-                  span.mb-0 #[b 2. Interpretación]
+                  span.mb-0 #[b B. Interpretación]
                 li.pb-0
                   ul.lista-ul--color
                     li 
@@ -56,13 +56,13 @@
                       span.mb-0 Sistema de cierre
                 li 
                   i
-                  span.mb-0 #[b 3. Complementos]
+                  span.mb-0 #[b C. Complementos]
                 li
                   i
-                  span.mb-0 #[b 4. Señalización]
+                  span.mb-0 #[b D. Señalización]
                 li.mb-0 
                   i
-                  span.mb-0 #[b 5.  Despiece]          
+                  span.mb-0 #[b E.  Despiece]          
             .col-lg-6.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
     
@@ -83,7 +83,7 @@
           h5 Figura 35.
           span Camisa Clásica
         figure
-          img(src='@/assets/curso/temas/tema2/img04.svg', alt='La imagen muestra un patrón técnico de costura para la primera etapa (“Paso 1”) en la creación de una “CAMISA CLÁSICA”. Se detallan las partes frontales de la camisa con indicaciones para la colocación de elementos como la caja del ojal, el borde de entretela, y medidas específicas en centímetros. También se ilustra la sección del canesú trasero, así como el diseño de un bolsillo, y se observan líneas de referencia y puntos de alineación que son críticos en el proceso de ensamblaje de una prenda de este tipo. Las anotaciones y las líneas de corte son esenciales para quien esté siguiendo el patrón y precise cortar y coser la tela de manera precisa. ') 
+          img(src='@/assets/curso/temas/tema2/img04.svg', alt='Plano técnico de camisa clásica con medidas, bolsillo y piezas delanteras y posteriores.') 
 
     p.mb-4 El video a continuación describe la manera de realizar el trazo de camisa clásica, teniendo en cuenta el manual de patronaje: 
     
@@ -108,7 +108,7 @@
           h5 Figura 36.
           span Camisa #[em slim fit]
         figure
-          img(src='@/assets/curso/temas/tema2/img06.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ')
+          img(src='@/assets/curso/temas/tema2/img06.svg', alt='Plano técnico de camisa slim fit con medidas, bolsillo y piezas delanteras y posteriores.') 
       .col-lg-8 
         .col-lg-2.col-3.col-md-2
           img.px-3.mb-3(src='@/assets/curso/temas/tema2/img05.svg', alt='')         
@@ -238,7 +238,7 @@
           h5 Figura 37.
           span Pantalón clásico
         figure
-          img(src='@/assets/curso/temas/tema2/img18.svg', alt='La figura presenta trazos para pantalón clásico, donde se señalan la línea de la cadera, el largo total del tiro, largo total del pantalón, entre otras.')
+          img(src='@/assets/curso/temas/tema2/img18.svg', alt='Patrón técnico de pantalón con trazos, medidas y ubicación de bolsillo.')
 
     p Al tener en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior del pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño del pantalón desde cero. 
     p.mb-4 En el siguiente video se presenta esta explicación:
@@ -274,7 +274,7 @@
             h5 Figura 38.
             span Pantalón tipo jean - silueta #[em slim fit]
         figure
-          img(src='@/assets/curso/temas/tema2/img21.svg', alt='la imagen presenta el trazo de un pantalón ajustado donde se detallan la pretina, el sistema de cierre, los bolsillos y algunas medidas como cintura, largo del tiro y largo del pantalón.')
+          img(src='@/assets/curso/temas/tema2/img21.svg', alt='Patrón técnico de pantalón con pretina, bolsillos y medidas delanteras y posteriores.')
     
 
     .subt.mb-4(data-aos="fade-right")
@@ -309,9 +309,6 @@
               ul.lista-ul--color.lista-ul--separador.mb-0
                 li 
                   i.fas.fa-atom
-                  span.mb-0 #[b Página: 71]
-                li 
-                  i.fas.fa-atom
                   span.mb-0 #[b Tipo de plano: unido]
                 li 
                   i.fas.fa-atom
@@ -326,11 +323,11 @@
                   i.fas.fa-atom 
                   span.mb-0 #[b Tipo de papel sugerido: cartón cartulina o cartulina ]
       .col-lg-6.col-md-10
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido.mb-0
           h5 Figura 39. 
           span Base para chaqueta sastre
         figure
-          img(src='@/assets/curso/temas/tema2/img22.svg', alt='La imagen muestra el patrón base para la confección de una chaqueta de sastre. Se detallan las piezas delanteras y traseras de la chaqueta, con líneas curvas y rectas que indican las áreas de corte y costura. Hay diversas medidas y puntos marcados con letras y números, que son típicos en los patrones de sastrería para indicar dimensiones específicas y la relación entre las diferentes partes del patrón. Las abreviaturas “CF” y “CA” podrían referirse a “Centro Frente” y “Centro Atrás”, respectivamente, lo que son puntos de referencia clave en la construcción de la prenda. Las líneas punteadas pueden representar dobleces o líneas de ajuste que ayudarán a dar forma a la chaqueta durante el proceso de ensamblaje.')
+          img(src='@/assets/curso/temas/tema2/img22.svg', alt='Diagrama base de torso con trazos técnicos y medidas de contorno de pecho.')
     
     p.text-center Recuerde que los básicos superiores siempre se trabajan partiendo desde un rectángulo e identificando los siguientes puntos:
     

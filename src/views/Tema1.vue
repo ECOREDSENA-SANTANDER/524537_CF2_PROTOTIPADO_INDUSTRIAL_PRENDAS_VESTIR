@@ -17,9 +17,9 @@
           h3.mb-4 Pasos del patronaje - Implementación de básicos y desarrollo de modelos
           .row
             .col-lg-7
-              p.mb-0 1. Básicos
+              p.mb-0 A. Básicos
               hr.my-2 
-              p.mb-2 2. Interpretación
+              p.mb-2 B. Interpretación
               ul.lista-ul.fa-ul.ul-circle.mb-0
                 li.mb-0
                   i.fas.fa-circle
@@ -32,11 +32,11 @@
                   span.mb-0 Sistema de cierre
               hr.my-2
             .col-lg-5
-              p.mb-0 3. Complementos
+              p.mb-0 C. Complementos
               hr.my-2 
-              p.mb-0 4. Señalización
+              p.mb-0 D. Señalización
               hr.my-2 
-              p.mb-0 5. Despiece
+              p.mb-0 E. Despiece
               hr.my-2
         .col-lg-3.col-8.col-sm-6
           img(src='@/assets/curso/temas/tema1/1.png', alt='')
@@ -96,7 +96,7 @@
           h5 Figura 1.
           span Ejemplo de básicos
         figure
-          img(src='@/assets/curso/temas/tema1/fig1.png', alt='la imagen presenta un molde básico de camiseta para niño.')
+          img(src='@/assets/curso/temas/tema1/fig1.png', alt='Patrón base infantil talla 6 con delantero y posterior unidos en el centro, mostrando escote, sisa y abertura superior central en el molde base.')
     
     
     .subt.mb-4(data-aos="fade-right")
@@ -116,7 +116,7 @@
               h5 Figura 2.
               span Desahogos
             figure
-              img(src='@/assets/curso/temas/tema1/img06.svg', alt='La imagen muestra dos diagramas de una figura humana estilizada para ilustrar las medidas de un patrón de costura. A la izquierda, la figura se ve de frente, y a la derecha, se ve de espaldas. Sobre ambas figuras hay líneas y texto que indican puntos específicos para tomar medidas, como “Distancia Busto”, “Ancho de Hombro”, “Base Busto” y “Cintura”. En la parte inferior hay un diagrama circular con la leyenda “Contorno de Pecho Medida anatómica”, señalando la forma de medir el contorno del pecho, con flechas que apuntan hacia “Delantero” y “Posterior”.')        
+              img(src='@/assets/curso/temas/tema1/img06.svg', alt='Base infantil delantera y posterior sobre figura anatómica con referencia del contorno de pecho y distribución entre delantero y espalda.')        
         .row.justify-content-center
           .col-md-10
             p #[b Desahogo por contorno:] los desahogos por contorno corresponden a todo incremento de medidas que se den por contorno de pecho, contorno de cintura y contorno de cadera, únicamente se referencian estos 3 contornos porque son los que abrazan o conforman los contornos más protuberantes del cuerpo. En las prendas superiores, el desahogo se trabaja a partir del contorno de pecho, es decir, en plano sobre línea de profundidad de sisa. 
@@ -125,7 +125,7 @@
               h5 Figura 3.
               span Desahogo contorno
             figure
-              img(src='@/assets/curso/temas/tema1/img07.svg', alt='La imagen muestra dos figuras humanas estilizadas con marcas de medidas para patrones de costura. La figura de la izquierda representa la vista frontal y la de la derecha la vista trasera. Las líneas marcadas en las figuras indican puntos de medida como “Base Busto” y “Línea de Prof. de Busto”. En la parte inferior, hay un diagrama circular etiquetado “Contorno de Pecho Medida anatómica” y una nota que dice “Deshago por contorno” y “Aumento, holgura o incremento de Medida anatómica”, que parecen referirse a los ajustes que se hacen en la tela para asegurar un buen ajuste.')         
+              img(src='@/assets/curso/temas/tema1/img07.svg', alt='Bases infantiles delantera y posterior con desahogo por contorno aplicado sobre la medida anatómica de pecho.')         
         .row.justify-content-center
           .col-md-10
             p #[b Desahogo por largo:] los desahogos por largos corresponden a:
@@ -138,7 +138,7 @@
               h5 Figura 4.
               span Desahogo largo de la prenda
             figure
-              img(src='@/assets/curso/temas/tema1/img08.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, utilizadas para ilustrar la toma de medidas en el diseño de patrones de costura. Hay líneas y textos específicos que indican distintos puntos de medida en el torso, como “Línea de Prof. de sisa”, “Busto Delantero Inferior 1/4” y “Busto Posterior Inferior 1/4”. En la parte inferior de la figura frontal, hay un área sombreada en rosa con la leyenda “Deshago por contorno”, que indica dónde se permite extra espacio o holgura en el patrón para un ajuste adecuado.')      
+              img(src='@/assets/curso/temas/tema1/img08.svg', alt='Bases infantiles delantera y posterior con desahogo por contorno aplicado en la zona lateral del cuerpo.')      
         .row.justify-content-center
           .col-md-10
             p #[b Desahogo por largo:] los desahogos por largos corresponden a:
@@ -151,7 +151,7 @@
               h5 Figura 5.
               span Desahogo por línea de profundidad de sisa
             figure
-              img(src='@/assets/curso/temas/tema1/img09.svg', alt='La imagen muestra dos figuras humanas estilizadas para indicar medidas en el diseño de patrones de costura, una de frente y otra de espalda. Las figuras están marcadas con líneas que señalan puntos de medida específicos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. En la figura de frente, una sección sombreada en rosa cruza el torso horizontalmente, con la etiqueta “Deshago por largo”. En la parte inferior, hay un diagrama circular dividido en dos mitades etiquetadas como “Delantero” y “Posterior”, con notas que explican “Deshago por Largo”, refiriéndose al espacio adicional en longitud que se puede agregar, y una nota que indica que este es un aumento, holgura o incremento que se toma aparte del deshago por contorno. ')
+              img(src='@/assets/curso/temas/tema1/img09.svg', alt='Bases infantiles delantera y posterior con desahogo por largo aplicado proporcionalmente al contorno de la prenda.')
         .row.justify-content-center
           .col-md-10
             p #[b Desahogo por ancho:]  Los desahogos corresponden a:
@@ -164,7 +164,7 @@
               h5 Figura 6.
               span Desahogo por hombro
             figure
-              img(src='@/assets/curso/temas/tema1/img10.svg', alt='La imagen muestra dos figuras estilizadas, una de frente y otra de espalda, ambas marcadas con líneas y textos que sirven para la toma de medidas en patrones de costura. Las líneas indican puntos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. En la figura frontal, una sección sombreada de rosa indica “Deshago por ancho”. Abajo, un diagrama circular dividido en “Delantero” y “Posterior” lleva las inscripciones “Deshago por Ancho” y “Deshago por Largo”, refiriéndose a la holgura adicional que se puede agregar en estas dimensiones, y aclara que el aumento se toma proporcional al deshago por largo.')        
+              img(src='@/assets/curso/temas/tema1/img10.svg', alt='Bases infantiles con desahogo por ancho y largo aplicado para generar holgura y movilidad en la prenda.')        
         .row.justify-content-center
           .col-md-10
             p #[b Desahogo por ancho:] Los desahogos corresponden a:
@@ -177,7 +177,7 @@
               h5 Figura 7.
               span Desahogo por ancho de pecho y espalda
             figure
-              img(src='@/assets/curso/temas/tema1/img11.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, usadas para indicar medidas de patrones de costura. Las líneas y textos marcan puntos específicos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. La figura frontal tiene una sección sombreada en rosa que indica “Deshago por ancho”. Abajo hay un diagrama circular etiquetado “Deshago por Ancho”, que separa las zonas “Delantero” y “Posterior”, y una explicación de que este deshago por ancho es un aumento o holgura que se toma proporcional al deshago por largo.')                   
+              img(src='@/assets/curso/temas/tema1/img11.svg', alt='Bases delantera y posterior con desahogo por ancho aplicado para aportar holgura y comodidad a la prenda.')                   
 
     p Los escotes también se modifican y pueden entrar dentro de la categorización de un desahogo; sin embargo, manejan una terminología y explicación diferente. 
     
@@ -189,7 +189,7 @@
           h5 Figura 8.
           span Sistema de ajuste
         figure
-          img(src='@/assets/curso/temas/tema1/img12.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, con líneas y textos indicando medidas para patrones de costura. En ambas figuras se señalan la “Línea de Prof. de sisa”, y se marcan las áreas de “Delantero Inferior 1/6” en la figura frontal y “Base Posterior Inferior 1/6” en la figura trasera. Un área sombreada en rosa en la figura frontal lleva la inscripción “Sistema de cierre”, sugiriendo la ubicación del cierre en la prenda.')
+          img(src='@/assets/curso/temas/tema1/img12.svg', alt='Bases delantera y posterior con sistema de ajuste lateral aplicado para mejorar la adaptación de la prenda al cuerpo.')
                 
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-12
@@ -199,7 +199,7 @@
           h5 Figura 9.
           span Sistema de cierre
         figure
-          img(src='@/assets/curso/temas/tema1/img13.svg', alt='La imagen muestra dos figuras humanas estilizadas para patrones de costura, una de frente y la otra de espalda, con áreas sombreadas en rosa y líneas de referencia. Ambas figuras tienen marcas para “Línea de Prof. de sisa”, y las áreas sombreadas se etiquetan como “Base Delantera Inferior 1/6” en la figura de frente y “Base Posterior Inferior 1/6” en la de espalda. En la parte superior de la figura frontal se lee “Sistema de cierre”, indicando el lugar para el mecanismo de cierre de la prenda.')           
+          img(src='@/assets/curso/temas/tema1/img13.svg', alt='Bases delantera y posterior con sistema de cierre frontal y línea de profundidad de sisa aplicada en la prenda.')           
         
    
     .subt.mb-4(data-aos="fade-right")
@@ -214,7 +214,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 10.
           span Complementos
-        img(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, utilizadas en el diseño de patrones de costura. Las figuras tienen marcas y áreas sombreadas en rosa. La marca central dice “Línea de Prof. de sisa” y las áreas sombreadas están etiquetadas como “Base Delantera Inferior 1/6” en la figura de frente y “Base Posterior Inferior 1/6” en la de espalda. En la parte superior de la figura frontal aparece la palabra “Complementos”, posiblemente refiriéndose a elementos adicionales o accesorios del diseño del patrón.')   
+        img(src='@/assets/curso/temas/tema1/img14.svg', alt='Bases delantera y posterior con complementos y línea de profundidad de sisa aplicados en la prenda.')   
     
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -242,7 +242,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 11.
           span Trazo de chaleco
-        img(src='@/assets/curso/temas/tema1/img15.svg', alt='')   
+        img(src='@/assets/curso/temas/tema1/img15.svg', alt='Plano técnico de chaleco con delantero y posterior, indicando largo de prenda, bolsillo y sistema de cierre frontal.')   
    
     figure(data-aos="fade")
       .video
@@ -305,8 +305,7 @@
           h5 Figura 12.
           span Transformación de sisas y mangas
         figure
-          img(src='@/assets/curso/temas/tema1/img16.svg', alt='')
-        figcaption.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - SENA
+          img(src='@/assets/curso/temas/tema1/img16.svg', alt='Esquema de transformación de manga y siluetas con variaciones de amplitud y volumen aplicadas sobre la prenda.')
 
     
     p #[b Cabeza de manga por cuadro de tallas:] las cabezas de manga de los cuadros de tallas suelen ser categorizadas para prendas casuales, la medida se identifica en el cuadro de tallas, este tipo de cabeza de manga es estandarizada, no se tiene en cuenta el comportamiento sobre el cuerpo y el tipo de prenda. 
@@ -315,21 +314,136 @@
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg1")
           .row.justify-content-center(titulo="Cuadro de Tallas Femeninas con medidas anatómicas sin desahogos, se presentan en centímetros.")
-            .col-lg-10.col-md-12
-              figure.mb-1
-                img(src='@/assets/curso/temas/tema1/fem1.png', alt='')
-              figcaption Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
+            .col-11
+              .titulo-sexto.color-acento-contenido.mb-3
+                h5 Tabla 1.
+                span Tallas Femeninas con medidas anatómicas sin desahogo
+              .tabla-a.color-acento-botones.mb-4 
+                table.bg-white
+                  thead
+                    tr
+                      th Medidas 
+                      th 6
+                      th 8
+                      th 10
+                      th 12
+                      th 14
+                      th 16
+                      th 18
+                  tbody
+                    tr
+                      td Largo de Manga 
+                      td 59
+                      td 59.5
+                      td 60
+                      td 60.5
+                      td 61
+                      td 61.75
+                      td 62.5
+                    tr
+                      td Largo int. de Manga 
+                      td 45.5
+                      td 45.75
+                      td 46
+                      td 46.25
+                      td 46.5
+                      td 46.875
+                      td 47.25
+              p La tabla presenta las medidas de largo de manga y largo interno de manga para las tallas 6, 8, 10, 12, 14, 16 y 18, mostrando un incremento progresivo y proporcional entre cada talla. El largo de manga aumenta gradualmente desde 59 cm en la talla 6 hasta 62.5 cm en la talla 18, mientras que el largo interno de manga pasa de 45.5 cm a 47.25 cm. Estas variaciones permiten mantener la proporción anatómica y el ajuste adecuado de la prenda según el crecimiento de las tallas, garantizando comodidad, movilidad y equilibrio en la construcción del patronaje
           .row.justify-content-center(titulo="Cuadro de tallas Masculinas, en donde las medidas son en pulgadas.")
-            .col-lg-10.col-md-12
-              figure.mb-1
-                img(src='@/assets/curso/temas/tema1/fem2.png', alt='')
-              figcaption Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena          
+            .col-11
+              .titulo-sexto.color-acento-contenido.mb-3
+                h5 Tabla 2.
+                span Cuadro de tallas Masculinas - medidas son en pulgadas. 
+              .tabla-b.color-acento-contenido.tb1.mb-4 
+                table.bg-white
+                  tr
+                    th Altura Cabeza Manga Camisa 
+                    td 4 5/8 
+                    td 4 3/4
+                    td 4 7/8
+                    td 5
+                    td 5 1/8
+                    td 5 1/4
+                    td 5 3/8
+                    td 5 1/2
+                    td 5 5/8
+                    td 5 3/4
+                    td 5 7/8
+                    td 6
+                  tr
+                    th Altura Cabeza Manga Chaqueta ó Camisa Sport 
+                    td 3 5/8
+                    td 3 3/4
+                    td 3 7/8
+                    td 4
+                    td 4 1/8
+                    td 4 1/4
+                    td 4 3/8
+                    td 4 1/2
+                    td 4 5/8
+                    td 4 3/4
+                    td 4 7/8
+                    td 5
+                  tr
+                    th Altura Cabeza Manga Saco 
+                    td 6 7/8
+                    td 7
+                    td 7 1/8
+                    td 7 1/4
+                    td 7 3/8
+                    td 7 1/2
+                    td 7 5/8
+                    td 7 3/4
+                    td 7 7/8
+                    td 8
+                    td 8 1/8
+                    td 8 1/4   
+              p La tabla presenta las alturas de cabeza de manga aplicadas a diferentes tipos de prendas y tallas, evidenciando cómo la estructura de la manga varía según la funcionalidad, el ajuste y el diseño de cada prenda. En camisas, la cabeza de manga mantiene una altura intermedia que permite equilibrio entre movilidad y ajuste anatómico. En chaquetas o camisas sport, la altura disminuye para proporcionar mayor comodidad, amplitud y libertad de movimiento, generando una sisa más relajada y casual. Por el contrario, en sacos la cabeza de manga es considerablemente más alta, ya que este tipo de prenda requiere una estructura más formal, definida y con mejor caída sobre el hombro. El incremento progresivo entre tallas mantiene las proporciones anatómicas del cuerpo, garantizando estabilidad en el patronaje y un comportamiento adecuado de la manga durante la confección y el uso de la prenda.
           .row.justify-content-center(titulo="Cuadro de tallas infantil: Medidas en centímetros.")
-            .col-lg-10.col-md-12
-              figure.mb-1
-                img(src='@/assets/curso/temas/tema1/fem3.png', alt='')
-              figcaption Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
-          
+            .col-11
+              .titulo-sexto.color-acento-contenido.mb-3
+                h5 Tabla 3.
+                span 
+              .tabla-a.color-acento-botones.mb-4 
+                table.bg-white
+                  thead
+                    tr
+                      th Medidas 
+                      th 2
+                      th 4
+                      th 5
+                      th 6
+                      th 7
+                      th 8
+                      th 10
+                      th 12
+                      th 14
+                  tbody
+                    tr
+                      td Largo de Manga 
+                      td 35
+                      td 37
+                      td 39
+                      td 41
+                      td 43
+                      td 45
+                      td 49
+                      td 53
+                      td 57
+                    tr
+                      td Cabeza de Manga 
+                      td 9
+                      td 9.5
+                      td 10
+                      td 10.5
+                      td 11
+                      td 11.5
+                      td 12
+                      td 12.5
+                      td 13
+              p La tabla presenta las medidas de largo de manga y cabeza de manga correspondientes a diferentes tallas infantiles, mostrando un crecimiento progresivo y proporcional en cada una de las medidas. El largo de manga aumenta desde 35 cm en la talla 2 hasta 57 cm en la talla 14, respondiendo al crecimiento anatómico del brazo y garantizando una adecuada cobertura y movilidad. De igual manera, la cabeza de manga incrementa gradualmente desde 9 cm hasta 13 cm, permitiendo mantener la correcta adaptación entre manga y sisa conforme aumenta el tamaño de la prenda. Esta relación proporcional es fundamental en patronaje, ya que asegura equilibrio estructural, comodidad y una correcta caída de la manga dentro de la construcción de la prenda. 
+              
     p #[b Cabeza de manga por medida deducida:]  las cabezas de manga por medida deducida salen según el tipo de plano y línea que se trabaje, es decir, que cada vez que se esté trazando un plano, sobre ese plano con la medida de recorrido de sisa delantera y sisa posterior se identifica la cabeza de manga, la sumatoria de esas dos medidas son divididas de acuerdo con el tipo de prenda para identificar la cabeza de manga. 
     
     .row.justify-content-evenly.mb-4(data-aos="fade-left")
@@ -337,12 +451,12 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 13.
           span Cuadros de tallas
-        img(src='@/assets/curso/temas/tema1/img18.svg', alt='En el lado izquierdo, hay un cuadro color crema con texto que parece ser parte de una instrucción o definición sobre tipos de mangas en costura. Enumera tres tipos de “Cabeza de manga” con fórmulas matemáticas para su construcción: “Cabeza de manga deportiva = sisa delantera + sisa posterior / 5” “Cabeza de manga casual = sisa delantera + sisa posterior / 4” “Cabeza de manga sastre o formal = sisa delantera + sisa posterior / 3” En el lado derecho, hay un gráfico con una regla vertical que indica el “Largo de manga”. Hay tres líneas horizontales de colores que señalan diferentes longitudes para tipos de manga: “Deportivo”, “Casual” y “Formal o Sastre”. A la izquierda de la regla, las letras “D” y “P” podrían referirse a las medidas de largo para los tipos de manga respectivos.')  
+        img(src='@/assets/curso/temas/tema1/img18.svg', alt='Cuadro informativo con fórmulas para calcular la cabeza de manga deportiva, casual y formal según medidas de sisa.')  
       .col-md-9.col-lg-4.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 14.
           span Cabeza de manga
-        img(src='@/assets/curso/temas/tema1/img19.svg', alt='En el lado izquierdo, hay un cuadro color crema con texto que parece ser parte de una instrucción o definición sobre tipos de mangas en costura. Enumera tres tipos de “Cabeza de manga” con fórmulas matemáticas para su construcción: “Cabeza de manga deportiva = sisa delantera + sisa posterior / 5” “Cabeza de manga casual = sisa delantera + sisa posterior / 4” “Cabeza de manga sastre o formal = sisa delantera + sisa posterior / 3” En el lado derecho, hay un gráfico con una regla vertical que indica el “Largo de manga”. Hay tres líneas horizontales de colores que señalan diferentes longitudes para tipos de manga: “Deportivo”, “Casual” y “Formal o Sastre”. A la izquierda de la regla, las letras “D” y “P” podrían referirse a las medidas de largo para los tipos de manga respectivos.')  
+        img(src='@/assets/curso/temas/tema1/img19.svg', alt='Esquema comparativo de largo y altura de cabeza de manga para estilos deportivo, casual y formal o sastre.')  
     
     p #[b Cabeza de manga estandarizada:]  las cabezas de manga estandarizadas suelen ser medidas que, sin explicación alguna, son entregadas para el desarrollo de las prendas.   
     p #[b Trazo de cabeza de manga:]  Para dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de trazos de manga, se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco”. Al iniciar el trazo de cabeza de manga lo primero que se debe tener en cuenta son las medidas que se van a trabajar:
@@ -365,7 +479,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 15.
           span Trazo de manga
-        img(src='@/assets/curso/temas/tema1/img20.svg', alt='La imagen muestra un diagrama de medidas para mangas de prendas. Hay una regla vertical en el centro que indica el “largo de manga”. Diferentes líneas de colores convergen hacia la regla desde la izquierda y la derecha, marcando distintas longitudes para el largo de manga con medidas específicas como “5 cm” y “3 cm” sobre las líneas. Dos letras “D” y “P” están colocadas a los lados de la regla, posiblemente representando diferentes tipos de mangas o medidas estándar. En la parte inferior, hay una indicación de “1/2 Cont. puño” y “1/2 Cont. sisa”, refiriéndose a la mitad del contorno del puño y la sisa respectivamente. Esto sugiere que el diagrama es una guía para trazar el patrón de una manga, indicando cómo varía el largo dependiendo de la medida del puño y la sisa. ')  
+        img(src='@/assets/curso/temas/tema1/img20.svg', alt='Comparación de cabezas de manga deportiva, casual y formal según altura y forma de la curva.')  
     
     figure.mb-5(data-aos="fade")
       .video
@@ -390,7 +504,7 @@
               h5 Figura 16.
               span Tipo de manga
             figure
-              img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
+              img(src='@/assets/curso/temas/tema1/img21.svg', alt='Ilustración de largos de manga en prenda femenina: sin manga, coqueta, corta, al codo y tres cuartos.') 
           .col-md-5.col-lg-6
             p Estos son solo algunos de todos los que existen, es importante mencionar que en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial, es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se trabajará el nombre funcional o que aplica con las referencias del cuerpo.        
         .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -439,14 +553,14 @@
           h5 Figura 17.
           span Cuello por medida de contorno
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img24.svg', alt='La imagen muestra dos diagramas relacionados con la confección de prendas de vestir. En el lado izquierdo, hay dos figuras de maniquíes, uno de frente y otro de espalda, con líneas que marcan divisiones anatómicas y posibles líneas de costura para la ropa. En el lado derecho, hay un patrón de tela para la parte superior de un vestido o camiseta, con indicaciones específicas sobre cómo modificar la curvatura del escote. La frase “Curva disímil a la del escote” sugiere que se está dando una instrucción para hacer una curva similar a la del escote en otra parte del patrón.')
+          img(src='@/assets/curso/temas/tema1/img24.svg', alt='Ilustración de cuello y escote con curva diferenciada en delantero y posterior de la prenda.')
         p.mb-5 Dentro del trazo y la misma estructura del plano de los cuellos por medida de contorno se identifican las capotas.
       .col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 18.
           span Capotas
         figure
-          img(src='@/assets/curso/temas/tema1/img25.svg', alt='en la figura se presentan dos imágenes: en la primera hay dos maniquíes vistiendo una capota, uno de frente y otro de espaldas; en la otra imagen se presenta el patrón de chaleco con el corte para la capota.')
+          img(src='@/assets/curso/temas/tema1/img25.svg', alt='Ilustración de capucha integrada al escote en vista delantera, posterior y desarrollo del patrón.')
     
    
     .subt.mb-4(data-aos="fade-right")
@@ -461,7 +575,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 19.
           span Ejemplos cuello por unión de hombro
-        img(src='@/assets/curso/temas/tema1/img26.svg', alt='En la imagen se presentan, con vistas delantera y posterior, dos maniquíes vistiendo dos tipos de cuellos que caen sobre los hombros.')
+        img(src='@/assets/curso/temas/tema1/img26.svg', alt='Ilustración de cuellos tipo marinero y bebé en vistas delantera y posterior de la prenda.')
     
    
     .subt.mb-4(data-aos="fade-right")
@@ -476,7 +590,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 20.
           span Cuello por extensión
-        img(src='@/assets/curso/temas/tema1/img27.svg', alt='la imagen presenta un maniquí, con vista delantera y posterior, vistiendo un pequeño chaleco con el cuello resaltado.')
+        img(src='@/assets/curso/temas/tema1/img27.svg', alt='Ilustración de chaleco con cuello sastre en vista delantera y cuello alto en vista posterior.')
    
     p Al dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de cuellos se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco”, es decir, que siempre en este punto los cuellos hacen parte de los complementos en los pasos del patronaje.
     p.mb-4 En el siguiente video se describe la manera de realizar trazos de los diferentes tipos de cuellos:
@@ -502,48 +616,45 @@
           h5 Figura 21.
           span Despiece
         figure
-          img(src='@/assets/curso/temas/tema1/img28.svg', alt='En la figura se presentan varias piezas separadas (moldes) de un vestido.')
+          img(src='@/assets/curso/temas/tema1/img28.svg', alt='Ilustración de piezas de patrón para manga y cuerpo de prenda con líneas de referencia y medidas.')
     
     p Elementos para tener en cuenta al momento de calcar las piezas para el despiece:
 
-    .titulo-sexto.color-acento-contenido.mb-2
-      h5 Figura 22.
-      span Costuras
-    
-    .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-lg-12
-        .bloque-texto-g.bloque-texto-g--inverso.bg2.p-3.p-sm-4.p-lg-5
-          .bloque-texto-g__img(
-              :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img30.png')})`}"
-            )
-          .bloque-texto-g__texto.p-4.p-lg-5.d-flex.flex-column
-            ul.lista-ul--color.fa-ul.p-md-4
-              li 
-                i.fas.fa-atom
-                span.mb-0 #[b.txtlila Margen de costura:] depende del tipo de costura y la maquinaria a trabajar, por especificación de calidad se asigna 1 cm de margen de costura en la industria para la unión de costuras en máquina plana; pero se debe tener en cuenta si la operación es realizada, por ejemplo, en fileteadora con puntada de seguridad, conforme a lo anterior se debe, si es el caso, disminuir el margen de costura. Además, es muy importante el margen en los ruedos o dobladillos de las prendas.
-    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-3.col-md-4.col-8
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 22.
+          span Costuras
+        figure
+          img(src='@/assets/curso/temas/tema1/img30.png', alt='Detalle de costuras textiles con puntada zigzag en uniones de tela clara.')
+      .col-lg-9.col-md-8
+        ul.lista-ul--color.fa-ul.p-md-4
+          li 
+            i.fas.fa-atom
+            span.mb-0  #[b.txtlila Margen de costura:] depende del tipo de costura y la maquinaria a trabajar, por especificación de calidad se asigna 1 cm de margen de costura en la industria para la unión de costuras en máquina plana; pero se debe tener en cuenta si la operación es realizada, por ejemplo, en fileteadora con puntada de seguridad, conforme a lo anterior se debe, si es el caso, disminuir el margen de costura. Además, es muy importante el margen en los ruedos o dobladillos de las prendas.
+                 
     p.mb-4 Es importante tener en cuenta que el margen de costura depende del 100 % de la operación o el tipo de máquina, es decir, si en este caso se va a trabajar una costura francesa, el consumo o el margen de costura debe ser superior a 1 cm, si se va a unir con cerradora de codo, recubridora, fileteadora y demás requiere especificaciones diferentes en el margen de costura.
     
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 23.
-          span Márgenes de costuras
+          span Costuras
       .col-lg-12
         figure
-          img(src='@/assets/curso/temas/tema1/figura23.png', alt='La imagen es un collage de tres secciones relacionadas con la confección de ropa. En la parte superior, hay un patrón de corte azul para una camisa con múltiples piezas etiquetadas y medidas especificadas. En la sección del medio, se muestra un esquema de instrucciones de costura amarillo con dibujos de prendas, símbolos de costura y números, que parecen ser pasos o partes de un conjunto de instrucciones para confeccionar una prenda. La tercera sección en la parte inferior muestra una fotografía de un tejido o costura, posiblemente ilustrando la textura o la calidad del acabado de un detalle de confección.')    
+          img(src='@/assets/curso/temas/tema1/figura23.png', alt='Ilustración de ficha técnica de confección y detalle de costura en borde de tela translúcida.')    
    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.bg2.p-4.p-lg-5.mb-4.mb-lg-0
         ul.lista-ul--color.fa-ul.mb-0.p-lg-5
           li 
             i.fas.fa-atom 
-            span #[b.txtlila Señalización:] la señalización del plano y el molde debe ir de acuerdo con las especificaciones de diseño; la señalización incluye nombre del diseño o referencia, el hilo de tela, piquetes, bolsillos, nombre de la pieza, cantidad a cortar; la señalización es la lectura a nivel general del molde.
+            span #[b Señalización:] la señalización del plano y el molde debe ir de acuerdo con las especificaciones de diseño; la señalización incluye nombre del diseño o referencia, el hilo de tela, piquetes, bolsillos, nombre de la pieza, cantidad a cortar; la señalización es la lectura a nivel general del molde.
       .col-lg-4.col-md-8
         .titulo-sexto.color-acento-contenido.mb-1
           h5 Figura 24.
           span Márgenes de costura
-        img(src='@/assets/curso/temas/tema1/img34.svg', alt='La imagen muestra un patrón de corte para confección de ropa, específicamente una pieza de un vestido. Es un dibujo en color amarillo con una forma curva que podría corresponder a una parte del corpiño o posiblemente a un panel lateral. El texto indica que es para un “Vestido Talla 6”, y se refiere a un “Falso Delantero”, seguido por las instrucciones “x1v En tela Base” y “x1v Entretela”. También aparece “10/10”, que puede referirse a una medida específica o a una instrucción de costura. Estas anotaciones sugieren detalles sobre la cantidad de piezas a cortar y los materiales a utilizar. ')
+        img(src='@/assets/curso/temas/tema1/img34.svg', alt='Ilustración de pieza de patrón para falso delantero de vestido con indicaciones de corte y dirección.')
     
     p.mb-4 En el siguiente video se presenta, de manera detallada, la manera de realizar el despiece de planos:
     
@@ -570,7 +681,7 @@
           span Prendas infantiles
       .col-12  
         figure
-          img(src="@/assets/curso/temas/tema1/figura25.png", alt="la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
+          img(src="@/assets/curso/temas/tema1/figura25.png", alt="Ilustración de prendas infantiles: camisa, blusa de mangas amplias y blusas sin mangas con volantes.")
     
     
     p.mb-4 En el siguiente video se presenta de manera detallada la forma en que se debe realizar el trazo de las prendas superiores, basándose en prendas de vestir infantiles:
@@ -593,19 +704,19 @@
           h5 Figura 26. 
           span Falda sin pretina-falso
         figure
-          img(src='@/assets/curso/temas/tema1/001.png', alt='Fotografía de niña luciendo una falta de cuadros sin pretina.')
+          img(src='@/assets/curso/temas/tema1/001.png', alt='Niña con blusa negra de hombros descubiertos y falda corta estampada en blanco y negro.')
       .col-lg-4.col-9.col-md-6.px-lg-4.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 27. 
           span Pretina recta
         figure
-          img(src='@/assets/curso/temas/tema1/002.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
+          img(src='@/assets/curso/temas/tema1/002.png', alt='Esquema de pretina recta en falda con ubicación en delantero y posterior de la prenda.')
       .col-lg-4.col-9.col-md-6.px-lg-4.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 28.
           span Pretina anatómica
         figure
-          img(src='@/assets/curso/temas/tema1/003.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una falda con pretina anatómica de color gris;  En la segunda imagen se presenta un maniquí sobre el cual se resalta la pretina en color rosa, además se lee: “las pretinas anatómicas, salen con la forma del cuerpo, es decir, se ajustan a la curvatura de la cintura”')
+          img(src='@/assets/curso/temas/tema1/003.png', alt='Esquema de pretina anatómica ajustada a la curvatura de la cintura en falda.')
     
     p.mb-4 A continuación, se presenta el video Trazo de prendas inferiores, con el cual podrá realizar el patronaje de este tipo de prenda.
     
@@ -627,7 +738,7 @@
           h5 Figura 29.
           span Prendas inferiores infantiles
         figure
-          img(src='@/assets/curso/temas/tema1/figura29.png', alt='La imagen muestra dos prendas de vestir diferentes. A la izquierda, hay unos pantalones de color verde oliva, en tela denim, con un corte clásico y cinco bolsillos. A la derecha, hay unos shorts de mezclilla de color azul claro. Estos shorts tienen un diseño desgastado con deshilachados en el dobladillo y detalles de perlas y rasgaduras decorativas en la tela. Estas dos prendas representan estilo para niño y niña. Los pantalones siendo más tradicionales y los shorts más modernos y casuales.')
+          img(src='@/assets/curso/temas/tema1/figura29.png', alt='Pantalón largo y short de mezclilla con detalles decorativos y acabado desgastado.')
     
 
     .subt.mb-4(data-aos="fade-right")
@@ -642,7 +753,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           h5 Figura 30.
           span Partes del bolsillo
-        img(src='@/assets/curso/temas/tema1/movil.svg', alt='En la figura, se señalan y detallan sobre un maniquí, las siguientes partes del bolsillo: boca de bolsillo, falso de bolsillo, fondo de bolsillo, vista de bolsillo.')
+        img(src='@/assets/curso/temas/tema1/movil.svg', alt='Ilustración de partes del bolsillo en pantalón: boca, falso, fondo y vista de bolsillo.')
     
 
     .subt.mb-4(data-aos="fade-right")
@@ -658,13 +769,13 @@
           h5 Figura 31.
           span Piezas del sistema de cierre
         figure
-          img(src='@/assets/curso/temas/tema1/figura31.png', alt='')
+          img(src='@/assets/curso/temas/tema1/figura31.png', alt='Ilustración de piezas delanteras de pantalón con cremallera, aletilla y aletillón para cierre frontal.')
       .col-lg-9.col-md-12.p-2
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 32.
           span Aletilla y aletillón
         figure
-          img(src='@/assets/curso/temas/tema1/figura32.png', alt='')
+          img(src='@/assets/curso/temas/tema1/figura32.png', alt='Secuencia de confección de cierre frontal con cremallera visible y pespunte en pantalón de mezclilla.')
 
     p.mb-4 El video, a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
     
@@ -686,7 +797,7 @@
           h5 Figura 33.
           span Overol
         figure
-          img(src='@/assets/curso/temas/tema1/img46.png', alt='Fotografía de una niña luciendo un overol verde, se presentan ambos lados, delantero y posterior.')          
+          img(src='@/assets/curso/temas/tema1/img46.png', alt='Niña con enterizo verde de volantes y lazo en cintura, vista frontal y posterior.')          
    
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-9
@@ -711,17 +822,15 @@
     
     p.mb-4 Para el desarrollo del trazo de prendas superiores - vestido o bata se trabajará un dibujo plano de referencia, bajo los requerimientos de una niña, partiendo desde el básico.
    
-    .titulo-sexto.color-acento-contenido.mb-2
-      h5 Figura 34.
-      span Vestido infantil    
-    .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-lg-12
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-              :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img50.png')})`}"
-            )
-          .bloque-texto-g__texto.p-4.p-lg-5
-            p.mb-0 El vestido infantil se caracteriza por los vuelos, recogidos y prenses que contemplan en los diseños, así mismo, la aplicación de complementos como golas y el uso de insumos como encajes, cintas, además de sistemas de ajuste como encauchados. Por otra parte, han ido adoptando características de prendas femeninas para producir el mismo vestido para ambas líneas, lo cual es importante considerar en el momento del desarrollo del patronaje.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-3.col-md-6.col-8
+        .titulo-sexto.color-acento-contenido.mb-2
+          h5 Figura 34.
+          span Vestido infantil    
+        figure
+          img(src='@/assets/curso/temas/tema1/img50.png', alt='Silueta con variaciones de líneas y amplitud en la falda.')
+      .col-lg-9.col-md-6
+        p.mb-0 El vestido infantil se caracteriza por los vuelos, recogidos y prenses que contemplan en los diseños, así mismo, la aplicación de complementos como golas y el uso de insumos como encajes, cintas, además de sistemas de ajuste como encauchados. Por otra parte, han ido adoptando características de prendas femeninas para producir el mismo vestido para ambas líneas, lo cual es importante considerar en el momento del desarrollo del patronaje.
      
     p Para el desarrollo del trazo de la prenda se harán todos los pasos del patronaje mencionados al inicio, con el fin de validar y confrontar dudas en los conocimientos adquiridos.
     p.mb-4 En este trazo usted partirá de los básicos, pasando por el análisis del diseño, interpretación y trazo del plano, complementos y despiece. Como se presenta en el siguiente Video.
