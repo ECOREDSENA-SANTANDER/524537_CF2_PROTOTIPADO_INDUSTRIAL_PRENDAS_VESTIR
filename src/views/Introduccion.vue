@@ -26,13 +26,12 @@
       .col-lg-3.col-md-4.col-7
         img(src='@/assets/curso/temas/tema1/img01.svg', alt='')
     
-    .cajon.color-acento-contenido.p-4.mb-5
+    .cajon.color-acento-contenido.p-4.mb-0
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
         .col-lg-1.col-md-2.col-4.mb-3.mb-md-0
           img(src='@/assets/curso/temas/tema1/img02.svg', alt='')
         .col-lg-11.col-md-10
-          p.mb-0 Al tener en cuenta los términos de los estudiosos se puede determinar que: satisfacción, cliente, necesidades, mercado y expectativas, son las palabras comunes que engloban el concepto para concluir que la calidad es el nivel de satisfacción del cliente, al cubrir sus necesidades y expectativas. 
-
+          p.mb-0 Al tener en cuenta los términos de los estudiosos, se puede determinar que satisfacción, cliente, necesidades, mercado y expectativas son las palabras comunes que engloban el concepto para concluir que la calidad es el nivel de satisfacción del cliente al cubrir sus necesidades y expectativas. 
 
 </template>
 

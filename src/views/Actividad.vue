@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b>Objetivo:</b> verificar la apropiación de los fundamentos técnicos para interpretar básicos, desarrollar planos, aplicar desahogos, complementos, señalización y despiece en prendas infantiles, masculinas y femeninas.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡Excelente! Ha superado la actividad',
-      titulo_reprobado: 'No ha superado la actividad',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

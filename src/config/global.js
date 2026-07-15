@@ -47,18 +47,17 @@ export default {
           {
             numero: '1.2',
             titulo:
-              ' Implementación de básico superior - Desarrollo de prendas superiores',
+              'Implementación de básico superior: desarrollo de prendas superiores',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Trazo de cabezas mangas - Análisis de manga',
+            titulo: 'Trazo de cabezas de mangas: análisis de manga',
             hash: 't_1_3',
           },
-
           {
             numero: '1.4',
-            titulo: 'Trazo de cuellos - Generalidades y comportamientos',
+            titulo: 'Trazo de cuellos: generalidades y comportamientos',
             hash: 't_1_4',
           },
           {
@@ -73,22 +72,22 @@ export default {
           },
           {
             numero: '1.7',
-            titulo: 'Trazo de prendas inferiores - faldas',
+            titulo: 'Trazo de prendas inferiores: faldas',
             hash: 't_1_7',
           },
           {
             numero: '1.8',
-            titulo: 'Trazo de prendas inferiores - pantalón',
+            titulo: 'Trazo de prendas inferiores: pantalón',
             hash: 't_1_8',
           },
           {
             numero: '1.9',
-            titulo: 'Trazo de prendas - overol',
+            titulo: 'Trazo de prendas: overol',
             hash: 't_1_9',
           },
           {
             numero: '1.10',
-            titulo: 'Trazo de prendas - bata o vestido',
+            titulo: 'Trazo de prendas: bata o vestido',
             hash: 't_1_10',
           },
         ],
@@ -104,10 +103,9 @@ export default {
             titulo: 'Trazo de camisa clásica',
             hash: 't_2_1',
           },
-
           {
             numero: '2.2',
-            titulo: ' Trazo de prendas superiores - camisa',
+            titulo: 'Trazo de prendas superiores: camisa',
             hash: 't_2_2',
           },
           {
@@ -117,7 +115,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Trazo de pantalón tipo jean slim fit',
+            titulo: 'Trazo de pantalón tipo <em>jean slim fit</em>',
             hash: 't_2_4',
           },
           {
@@ -138,7 +136,6 @@ export default {
             titulo: 'Traslados de pinza correctiva de talles',
             hash: 't_3_1',
           },
-
           {
             numero: '3.2',
             titulo: ' Trazo de blusa femenina',
@@ -159,7 +156,6 @@ export default {
             titulo: 'Trazo de manga y cabezas de manga',
             hash: 't_3_5',
           },
-
           {
             numero: '3.6',
             titulo: ' Trazo de falda y modificación de básicos de falda',
@@ -368,12 +364,12 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Paez ',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Carolina Jiménez Suescún  ',
-          cargo: 'Evaluador instruccional ',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -408,11 +404,6 @@ export default {
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
