@@ -377,7 +377,7 @@
           span Faldas rotonda
         img(src='@/assets/curso/temas/tema3/img57.png', alt='Ejemplos de faldas acampanadas con diferentes niveles de amplitud y caída.')
     
-    p.mb-4 En el siguiente video se explica de manera detallada, el proceso para realizar en trazo de faldas tipo rotonda:
+    p.mb-4 En el siguiente video se explica de manera detallada el proceso para realizar el trazo de faldas tipo rotonda:
     
     figure(data-aos="zoom-in-left")
       .video

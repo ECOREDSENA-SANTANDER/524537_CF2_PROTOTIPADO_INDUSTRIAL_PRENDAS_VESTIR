@@ -287,9 +287,9 @@
     figure(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/HQP3N-Wi8Ew?si=u8BPYTvOEfmUAJvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Trazo de pantalón tipo jean #[em slim fit]
-     
-     
+      figcaption Video. Trazo de pantalón tipo #[em jean slim fit]
+    
+    
     Separador  
     #t_2_5.titulo-segundo.color-acento-contenido
       h2 2.5 Base sastre masculina

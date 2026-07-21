@@ -132,7 +132,7 @@
             ul.lista-ul--color.fa-ul.ps-2.mb-4
               li
                 i.fas.fa-atom
-                span.mb-0 Largo de la prenda: en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado; esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores, debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
+                span.mb-0 #[b Largo de la prenda:] en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado; esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores, debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
           .col-md-8.p-4.col-lg-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 4.
@@ -145,7 +145,7 @@
             ul.lista-ul--color.fa-ul.ps-2.mb-4
               li
                 i.fas.fa-atom
-                span.mb-0 Desahogo por línea de profundidad de sisa o por sisa; estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno).
+                span.mb-0 #[b Desahogo por línea de profundidad de sisa o por sisa:] estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno).
           .col-md-6.p-4.col-lg-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 5.
@@ -154,11 +154,11 @@
               img(src='@/assets/curso/temas/tema1/img09.svg', alt='Bases infantiles delantera y posterior con desahogo por largo aplicado proporcionalmente al contorno de la prenda.')
         .row.justify-content-center
           .col-md-10
-            p #[b Desahogo por ancho:]  Los desahogos corresponden a:
+            p #[b Desahogo por ancho:] los desahogos corresponden a:
             ul.lista-ul--color.fa-ul.ps-2.mb-4
               li
                 i.fas.fa-atom
-                span.mb-0 #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
+                span.mb-0 #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial; es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
           .col-md-8.p-4.col-lg-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 6.
@@ -167,11 +167,11 @@
               img(src='@/assets/curso/temas/tema1/img10.svg', alt='Bases infantiles con desahogo por ancho y largo aplicado para generar holgura y movilidad en la prenda.')        
         .row.justify-content-center
           .col-md-10
-            p #[b Desahogo por ancho:] Los desahogos corresponden a:
+            p #[b Desahogo por ancho:] los desahogos corresponden a:
             ul.lista-ul--color.fa-ul.ps-2.mb-4
               li
                 i.fas.fa-atom
-                span.mb-0 #[b Desahogo por ancho de pecho y ancho de espalda:]  los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, esto es, los desahogos por anchos corresponden al incremento que se aplica al desahogo por contorno.
+                span.mb-0 #[b Desahogo por ancho de pecho y ancho de espalda:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial; esto es, los desahogos por anchos corresponden al incremento que se aplica al desahogo por contorno.
           .col-md-6.p-4.col-lg-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 7.
