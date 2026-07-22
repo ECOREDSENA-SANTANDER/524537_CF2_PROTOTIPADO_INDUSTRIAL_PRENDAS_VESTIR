@@ -350,11 +350,11 @@
                       td 46.875
                       td 47.25
               p La tabla presenta las medidas de largo de manga y largo interno de manga para las tallas 6, 8, 10, 12, 14, 16 y 18, mostrando un incremento progresivo y proporcional entre cada talla. El largo de manga aumenta gradualmente desde 59 cm en la talla 6 hasta 62.5 cm en la talla 18, mientras que el largo interno de manga pasa de 45.5 cm a 47.25 cm. Estas variaciones permiten mantener la proporción anatómica y el ajuste adecuado de la prenda según el crecimiento de las tallas, garantizando comodidad, movilidad y equilibrio en la construcción del patronaje.
-          .row.justify-content-center(titulo="Cuadro de tallas masculinas, en donde las medidas son en pulgadas")
+          .row.justify-content-center(titulo="Cuadro de tallas masculinas, en donde las medidas son en pulgadas.")
             .col-11
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 2.
-                span Cuadro de tallas masculinas - medidas son en pulgadas. 
+                span Cuadro de tallas masculinas - medidas son en pulgadas
               .tabla-b.color-acento-contenido.tb1.mb-4 
                 table.bg-white
                   tr
